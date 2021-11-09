@@ -1,10 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The app was created skipping database and unit test.
+
+Rails Version: 6.1.4.1
+
+Ruby Version: 2.7.2
+
+## The concerns
 
 IpUtilites concern has every method needed for IPs traceability (`app/controllers/concerns/ip_utilities.rb`)
-
 
 
 ## How to implement into the ApplicationController
